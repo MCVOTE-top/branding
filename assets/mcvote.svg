@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1116.52 638.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Névtelen_színátmenet_34-6);
+      }
+
+      .cls-2 {
+        fill: url(#Névtelen_színátmenet_39-9);
+      }
+
+      .cls-3 {
+        fill: url(#Névtelen_színátmenet_34);
+      }
+
+      .cls-4 {
+        fill: url(#Névtelen_színátmenet_34-3);
+      }
+
+      .cls-5 {
+        fill: url(#Névtelen_színátmenet_34-8);
+      }
+
+      .cls-6 {
+        fill: url(#Névtelen_színátmenet_87);
+      }
+
+      .cls-7 {
+        fill: url(#Névtelen_színátmenet_39-2);
+      }
+
+      .cls-7, .cls-8 {
+        opacity: .3;
+      }
+
+      .cls-9 {
+        fill: url(#Névtelen_színátmenet_104);
+      }
+
+      .cls-9, .cls-10, .cls-11 {
+        mix-blend-mode: overlay;
+      }
+
+      .cls-12 {
+        fill: url(#Névtelen_színátmenet_11);
+      }
+
+      .cls-13 {
+        fill: #23759f;
+      }
+
+      .cls-14 {
+        fill: url(#Névtelen_színátmenet_34-4);
+      }
+
+      .cls-15 {
+        fill: #fff;
+      }
+
+      .cls-16 {
+        fill: #e6f5ff;
+      }
+
+      .cls-17 {
+        fill: url(#Névtelen_színátmenet_39-3);
+      }
+
+      .cls-18 {
+        fill: url(#Névtelen_színátmenet_110);
+      }
+
+      .cls-19 {
+        fill: url(#Névtelen_színátmenet_87-3);
+      }
+
+      .cls-20 {
+        fill: url(#Névtelen_színátmenet_34-9);
+      }
+
+      .cls-21 {
+        fill: url(#Névtelen_színátmenet_39-8);
+      }
+
+      .cls-22 {
+        fill: url(#Névtelen_színátmenet_39-5);
+      }
+
+      .cls-23 {
+        isolation: isolate;
+      }
+
+      .cls-24 {
+        fill: url(#Névtelen_színátmenet_34-7);
+      }
+
+      .cls-25 {
+        fill: url(#Névtelen_színátmenet_39-7);
+      }
+
+      .cls-26 {
+        fill: url(#Névtelen_színátmenet_34-11);
+      }
+
+      .cls-27 {
+        fill: #6aa4ce;
+      }
+
+      .cls-28 {
+        fill: url(#Névtelen_színátmenet_34-13);
+      }
+
+      .cls-29 {
+        fill: #054f75;
+      }
+
+      .cls-30 {
+        fill: url(#Névtelen_színátmenet_87-2);
+      }
+
+      .cls-31 {
+        fill: url(#Névtelen_színátmenet_87-5);
+      }
+
+      .cls-32 {
+        fill: url(#Névtelen_színátmenet_34-12);
+      }
+
+      .cls-8 {
+        fill: url(#Névtelen_színátmenet_39);
+      }
+
+      .cls-10 {
+        fill: url(#Névtelen_színátmenet_104-2);
+      }
+
+      .cls-33 {
+        fill: url(#Névtelen_színátmenet_55);
+      }
+
+      .cls-34 {
+        fill: url(#Névtelen_színátmenet_52);
+      }
+
+      .cls-35 {
+        fill: url(#Névtelen_színátmenet_34-10);
+      }
+
+      .cls-36 {
+        fill: url(#Névtelen_színátmenet_87-4);
+      }
+
+      .cls-37 {
+        fill: url(#Névtelen_színátmenet_110-2);
+      }
+
+      .cls-38 {
+        fill: url(#Névtelen_színátmenet_39-4);
+      }
+
+      .cls-39 {
+        fill: url(#Névtelen_színátmenet_39-6);
+      }
+
+      .cls-40 {
+        fill: url(#Névtelen_színátmenet_34-2);
+      }
+
+      .cls-41 {
+        fill: url(#Névtelen_színátmenet_34-5);
+      }
+
+      .cls-42 {
+        fill: url(#Névtelen_színátmenet_87-6);
+      }
+
+      .cls-43 {
+        opacity: .5;
+      }
+
+      .cls-44 {
+        fill: url(#Névtelen_színátmenet_52-2);
+      }
+    </style>
+    <linearGradient id="Névtelen_színátmenet_52" data-name="Névtelen színátmenet 52" x1="270.25" y1="409.08" x2="270.25" y2="16.81" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Névtelen_színátmenet_52-2" data-name="Névtelen színátmenet 52" x1="845.65" x2="845.65" y2="16.45" xlink:href="#Névtelen_színátmenet_52"/>
+    <linearGradient id="Névtelen_színátmenet_55" data-name="Névtelen színátmenet 55" x1="557.65" y1="409.08" x2="557.65" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Névtelen_színátmenet_11" data-name="Névtelen színátmenet 11" x1="493.9" y1="192.68" x2="709.63" y2="192.68" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6aa4ce"/>
+      <stop offset="1" stop-color="#4f89b2"/>
+    </linearGradient>
+    <linearGradient id="Névtelen_színátmenet_104" data-name="Névtelen színátmenet 104" x1="406.89" y1="145.06" x2="709.63" y2="145.06" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="Névtelen_színátmenet_104-2" data-name="Névtelen színátmenet 104" x1="527.74" y1="189.78" y2="189.78" xlink:href="#Névtelen_színátmenet_104"/>
+    <linearGradient id="Névtelen_színátmenet_39" data-name="Névtelen színátmenet 39" x1="462.89" y1="140.3" x2="603.67" y2="140.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6aa4ce"/>
+      <stop offset="1" stop-color="#4f89b2"/>
+    </linearGradient>
+    <linearGradient id="Névtelen_színátmenet_39-2" data-name="Névtelen színátmenet 39" x1="599.78" y1="192.93" x2="643.87" y2="192.93" xlink:href="#Névtelen_színátmenet_39"/>
+    <linearGradient id="Névtelen_színátmenet_110" data-name="Névtelen színátmenet 110" x1="558.26" y1="638.27" x2="558.26" y2="346.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6f5ff" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#e6f5ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Névtelen_színátmenet_110-2" data-name="Névtelen színátmenet 110" x1="660.24" y1="510.65" x2="660.24" y2="474.36" xlink:href="#Névtelen_színátmenet_110"/>
+    <linearGradient id="Névtelen_színátmenet_34" data-name="Névtelen színátmenet 34" x1="126.36" y1="539.81" x2="126.36" y2="476" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#054f75"/>
+      <stop offset="1" stop-color="#4f89b2"/>
+    </linearGradient>
+    <linearGradient id="Névtelen_színátmenet_34-2" data-name="Névtelen színátmenet 34" x1="188.03" y1="539.81" x2="188.03" y2="476" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_34-3" data-name="Névtelen színátmenet 34" x1="152.3" y1="573.65" x2="152.3" y2="510.65" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_39-3" data-name="Névtelen színátmenet 39" x1="73.65" y1="608.27" x2="73.65" y2="546.14" xlink:href="#Névtelen_színátmenet_39"/>
+    <linearGradient id="Névtelen_színátmenet_39-4" data-name="Névtelen színátmenet 39" x1="220.91" y1="608.27" x2="220.91" y2="546.14" xlink:href="#Névtelen_színátmenet_39"/>
+    <linearGradient id="Névtelen_színátmenet_34-4" data-name="Névtelen színátmenet 34" x1="376.75" y1="474.36" x2="376.75" y2="409.08" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_39-5" data-name="Névtelen színátmenet 39" x1="335.9" y1="608.27" x2="335.9" y2="546.14" xlink:href="#Névtelen_színátmenet_39"/>
+    <linearGradient id="Névtelen_színátmenet_34-5" data-name="Névtelen színátmenet 34" x1="1011.26" y1="474.36" x2="1011.26" y2="409.08" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_34-6" data-name="Névtelen színátmenet 34" x1="1011.17" y1="539.81" x2="1011.17" y2="476" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_39-6" data-name="Névtelen színátmenet 39" x1="1001.76" y1="608.27" x2="1001.76" y2="546.14" xlink:href="#Névtelen_színátmenet_39"/>
+    <linearGradient id="Névtelen_színátmenet_34-7" data-name="Névtelen színátmenet 34" x1="769.69" y1="474.36" x2="769.69" y2="409.08" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_34-8" data-name="Névtelen színátmenet 34" x1="870.16" y1="474.36" x2="870.16" y2="409.08" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_39-7" data-name="Névtelen színátmenet 39" x1="832.49" y1="608.27" x2="832.49" y2="546.14" xlink:href="#Névtelen_színátmenet_39"/>
+    <linearGradient id="Névtelen_színátmenet_34-9" data-name="Névtelen színátmenet 34" x1="658.95" y1="474.36" x2="658.95" y2="409.08" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_39-8" data-name="Névtelen színátmenet 39" x1="665.14" y1="608.27" x2="665.14" y2="546.14" xlink:href="#Névtelen_színátmenet_39"/>
+    <linearGradient id="Névtelen_színátmenet_34-10" data-name="Névtelen színátmenet 34" x1="434.69" y1="539.81" x2="434.69" y2="476" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_34-11" data-name="Névtelen színátmenet 34" x1="558.26" y1="539.81" x2="558.26" y2="476" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_34-12" data-name="Névtelen színátmenet 34" x1="454.05" y1="573.65" x2="454.05" y2="510.65" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_34-13" data-name="Névtelen színátmenet 34" x1="537.23" y1="573.65" x2="537.23" y2="510.65" xlink:href="#Névtelen_színátmenet_34"/>
+    <linearGradient id="Névtelen_színátmenet_39-9" data-name="Névtelen színátmenet 39" x1="494.42" y1="608.27" x2="494.42" y2="546.14" xlink:href="#Névtelen_színátmenet_39"/>
+    <linearGradient id="Névtelen_színátmenet_87" data-name="Névtelen színátmenet 87" x1="155.11" y1="459.25" x2="155.11" y2="376.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Névtelen_színátmenet_87-2" data-name="Névtelen színátmenet 87" x1="341.08" y1="459.31" x2="341.08" xlink:href="#Névtelen_színátmenet_87"/>
+    <linearGradient id="Névtelen_színátmenet_87-3" data-name="Névtelen színátmenet 87" x1="495.57" y1="459.48" x2="495.57" xlink:href="#Névtelen_színátmenet_87"/>
+    <linearGradient id="Névtelen_színátmenet_87-4" data-name="Névtelen színátmenet 87" x1="662.3" y1="459.6" x2="662.3" xlink:href="#Névtelen_színátmenet_87"/>
+    <linearGradient id="Névtelen_színátmenet_87-5" data-name="Névtelen színátmenet 87" x1="824.1" y1="459.69" x2="824.1" xlink:href="#Névtelen_színátmenet_87"/>
+    <linearGradient id="Névtelen_színátmenet_87-6" data-name="Névtelen színátmenet 87" x1="987.45" y1="459.82" x2="987.45" xlink:href="#Névtelen_színátmenet_87"/>
+  </defs>
+  <g class="cls-23">
+    <g id="Réteg_8" data-name="Réteg 8">
+      <polygon class="cls-34" points="401.19 409.08 245.98 409.08 139.32 69.95 308.28 16.81 401.19 409.08"/>
+      <polygon class="cls-44" points="977.2 69.95 870.53 409.08 714.11 409.08 807.11 16.45 977.2 69.95"/>
+      <polygon class="cls-33" points="811.01 0 807.11 16.45 714.11 409.08 401.19 409.08 308.28 16.81 304.3 0 811.01 0"/>
+    </g>
+    <g id="Réteg_4" data-name="Réteg 4">
+      <polygon class="cls-16" points="709.63 99.13 662.31 119.28 662.3 119.28 493.9 190.98 437.44 150.59 433.58 139.22 421.54 139.22 406.89 128.74 540.82 115.64 553.04 122 565.17 113.26 709.63 99.13"/>
+      <polygon class="cls-16" points="709.63 99.13 686.03 145.4 686.03 145.41 674.15 152.54 669.82 177.19 617.18 280.42 596.07 265.87 586.49 246.29 567.66 246.29 527.74 218.78 709.63 99.13"/>
+      <polygon class="cls-12" points="493.9 190.99 493.9 286.23 527.74 218.78 709.63 99.13 493.9 190.99"/>
+      <polygon class="cls-13" points="493.9 286.23 554.64 237.32 527.74 218.78 493.9 286.23"/>
+      <polygon class="cls-9" points="709.63 99.13 662.31 119.28 662.3 119.28 493.9 190.98 437.44 150.59 433.58 139.22 421.54 139.22 406.89 128.74 540.82 115.64 553.04 122 565.17 113.26 709.63 99.13"/>
+      <polygon class="cls-10" points="709.63 99.13 686.03 145.4 686.03 145.41 674.15 152.54 669.82 177.19 617.18 280.42 596.07 265.87 586.49 246.29 567.66 246.29 527.74 218.78 709.63 99.13"/>
+      <polygon class="cls-15" points="709.63 99.13 662.31 119.28 662.3 119.28 406.89 128.74 540.82 115.64 553.04 122 565.17 113.26 709.63 99.13"/>
+      <polygon class="cls-15" points="709.63 99.13 686.03 145.4 686.03 145.41 674.15 152.54 669.82 177.19 617.18 280.42 672.46 123.59 709.63 99.13"/>
+      <polygon class="cls-8" points="603.67 144.25 572.92 157.34 462.89 123.27 603.67 144.25"/>
+      <polygon class="cls-7" points="599.78 171.39 643.87 228.07 620.46 157.79 599.78 171.39"/>
+      <polyline class="cls-15" points="572.92 157.34 561.61 162.16 452.61 124.27 462.89 123.27 572.92 157.34"/>
+      <polyline class="cls-15" points="599.78 171.39 589.28 178.3 639.86 235.93 643.87 228.07 599.78 171.39"/>
+    </g>
+    <g id="Réteg_5" data-name="Réteg 5">
+      <g>
+        <path class="cls-18" d="M1115.08,540.93l-6.26-35.49-4.37-24.79h-22.21l.74-2.19-1.26-7.47-3.13-18.47,11.25-34.03,2.37-7.18-1.31-7.45-5.7-32.33-4.37-24.79h-160.95s-26.65,0-26.65,0h-134.19s0,0,0,0h-199.76s-43.43,0-43.43,0h-258.91s-53.98,0-53.98,0h-26.46l-3.31,26.25-.77,6.08h-18.86l-2.93-10.44-6.15-21.89H35.69l-4.37,24.79L1.44,540.93l-1.44,8.15,2.95,7.74,23.66,62.13,7.36,19.32h108.31l3.72-25.7,1.29-8.92h18.89l3.4,12.49,6.02,22.13h111.81s116.68,0,116.68,0h28.52l1.44-28.49.31-6.13h1l.47,6.71,1.95,27.91h119.34l.3-29.7.05-4.92h1.56l.05,4.92.3,29.7h199.9l3.44-26.07,1.35-10.22.67,8.61,2.14,27.68h113.43l5.27-23.4,1.95-8.63.65,5.55,3.12,26.49h191.25l7.36-19.32,23.66-62.13,2.95-7.74-1.44-8.15ZM184.43,556.45l-2.14,17.2h-40.65l-10.39-33.84h-5.03l-9.92,68.46h-61.67l-23.66-62.13,29.88-169.39h60.91l9.08,32.33h6.45l9.15,33.08h27.52l4.41-33.08h20.53l4.07-32.33h51.06l-16.18,166.49-.44,4.57.94,4.49,11.74,55.97h-51.57l-14.1-51.82ZM404.09,608.27h-113.75s15.89-162.66,15.89-162.66l.42-4.28-.8-4.22-11.43-60.36h101.85l-4.57,97.61h-39.8l-2.57,36.29h45.45l3,31.96,2.55,27.2h5.08l.43,3.84-1.75,34.62ZM548.21,539.81l-.11,33.84h-20.32l-.35,34.62h-61.67l-2.42-34.62h-16.86l-2.79-33.84h-11.46l-3.65-32.5-.33-2.95h11.13l1.44-28.49,1.6-31.66.11-2.22-.22-2.22-6.17-63.02h51.06l2.99,65.4h16.13l1.18-65.4h51.2l-1.28,65.36v.45s0,.45,0,.45l.98,96.81h-10.18ZM732.98,608.27h-143.9l-.39-38.46h9.39l.21-29.78.46-63.81v-.16s0-.16,0-.16l-.36-99.14h122.49l-7.72,62.25-.35,2.8.18,2.81,2.03,31.66,1.8,28.08h21.81l2.56,41.78-8.21,62.13ZM870.32,546.14l-14,62.13h-61.67l-10.37-133.91h-17.42l-5.97-97.61h121.88s-13.55,59.26-13.55,59.26l-1.15,5.05.61,5.15,3.32,28.15h-9.16l7.49,71.78ZM1061.88,608.27h-143.9l-12.25-103.91h.87l5.23-23.48,14.53-65.28,1.11-4.99-.6-5.07-3.42-28.79h132.21l5.7,32.33-13.59,41.1,4.37,25.82-11.76,34.66h38.9l6.26,35.49-23.66,62.13Z"/>
+        <polygon class="cls-37" points="652.77 474.36 653.95 510.65 667.7 510.65 666.35 474.36 652.77 474.36"/>
+      </g>
+    </g>
+    <g id="Réteg_1_másolat" data-name="Réteg 1 másolat">
+      <g>
+        <g>
+          <polygon class="cls-29" points="190.89 618.27 181.47 583.65 134.25 583.65 131.35 574.19 124.96 618.27 47.75 618.27 20.65 547.12 52.47 366.75 129.34 366.75 138.42 399.08 144.9 399.08 154.05 432.15 165.21 432.15 169.61 399.08 190.08 399.08 194.15 366.75 272.16 366.75 286.46 442.24 269.27 618.27 190.89 618.27"/>
+          <path class="cls-29" d="M263.88,376.75l12.49,65.95-16.17,165.57h-61.67l-14.1-51.82-2.14,17.2h-40.65l-10.39-33.84h-5.03l-9.92,68.46h-61.67l-23.66-62.13,29.88-169.39h60.91l9.08,32.33h6.45l9.15,33.08h27.52l4.41-33.08h20.53l4.07-32.33h60.91M280.45,356.75h-95.11l-2.2,17.5-1.87,14.83h-20.41l-2.31,17.36-.4,2.99-1.57-5.69-4.06-14.67h-6.51l-4.98-17.73-4.1-14.59H44.08l-2.91,16.53-29.88,169.39-.96,5.43,1.96,5.16,23.66,62.13,4.91,12.88h92.77l2.48-17.13,2.53-17.49h35.19l5.4,19.87,4.01,14.75h95.1l1.76-18.06,16.17-165.57.28-2.85-.53-2.81-12.49-65.95-3.08-16.28h0Z"/>
+        </g>
+        <g>
+          <polygon class="cls-29" points="272.63 618.27 257.61 546.7 275.1 366.75 415.06 366.75 422.48 442.46 420.36 484.36 361.21 484.36 360.06 500.65 407.7 500.65 415.87 573.34 413.6 618.27 272.63 618.27"/>
+          <path class="cls-29" d="M405.99,376.75l6.46,65.95-1.6,31.66h-58.96l-2.57,36.29h49.44l7.08,63-1.75,34.62h-123.34l-13.04-62.13,16.46-169.39h121.81M424.13,356.75h-158.1l-1.76,18.07-16.46,169.39-.3,3.05.63,3,13.04,62.13,3.33,15.89h158.59l.96-18.99,1.75-34.62.08-1.62-.18-1.62-7.08-63-1.58-14.06h12.81l.96-18.99,1.6-31.66.07-1.48-.14-1.48-6.46-65.95-1.77-18.05h0Z"/>
+        </g>
+        <g>
+          <polygon class="cls-29" points="909.09 618.27 888.33 442.15 905.57 366.75 1064.05 366.75 1071.65 409.82 1058.05 450.96 1062.42 476.82 1054.33 500.65 1087.67 500.65 1095.87 547.12 1068.77 618.27 909.09 618.27"/>
+          <path class="cls-29" d="M1055.66,376.75l5.7,32.33-13.59,41.1,4.37,25.82-11.76,34.66h38.9l6.26,35.49-23.66,62.13h-143.9s-19.52-165.57-19.52-165.57l15.08-65.95h142.12M1072.44,356.75h-174.85l-3.55,15.54-15.08,65.95-.77,3.37.4,3.43,19.52,165.57,2.08,17.66h161.68s13.79,0,13.79,0l4.91-12.88,23.66-62.13,1.96-5.16-.96-5.43-6.26-35.49-2.91-16.53h-27.77l2.79-8.23,1.62-4.78-.84-4.98-3.54-20.92,12.03-36.38,1.58-4.79-.88-4.96-5.7-32.33-2.91-16.53h0Z"/>
+        </g>
+        <g>
+          <polygon class="cls-29" points="785.4 618.27 775.02 484.36 735.59 484.36 732.9 442.4 742.29 366.75 902.12 366.75 907.21 409.59 890.56 484.36 873.93 484.36 880.44 546.74 864.32 618.27 785.4 618.27"/>
+          <path class="cls-29" d="M893.24,376.75l3.84,32.33-14.53,65.28h-19.71l7.49,71.78-14,62.13h-61.67l-10.37-133.91h-39.31l-2.03-31.66,8.18-65.95h142.11M911,356.75h-177.55l-2.18,17.54-8.18,65.95-.23,1.86.12,1.88,2.03,31.66,1.2,18.72h39.56l8.94,115.46,1.43,18.46h96.17l3.52-15.6,14-62.13.72-3.21-.34-3.27-5.19-49.71h13.56l3.49-15.65,14.53-65.28.74-3.32-.4-3.38-3.84-32.33-2.1-17.64h0Z"/>
+        </g>
+        <g>
+          <polygon class="cls-29" points="579.19 618.27 577.41 442.65 578.9 366.75 740.23 366.75 751.23 546.49 741.75 618.27 579.19 618.27"/>
+          <path class="cls-29" d="M730.83,376.75l10.37,169.39-8.21,62.13h-143.9l-1.67-165.57,1.29-65.95h142.12M653.95,510.65h13.75l-1.34-36.29h-13.58l1.18,36.29M749.64,356.75h-180.55l-.38,19.61-1.29,65.95v.3s0,.3,0,.3l1.67,165.57.2,19.8h181.23l2.3-17.38,8.21-62.13.25-1.91-.12-1.93-10.37-169.39-1.15-18.78h0Z"/>
+        </g>
+        <g>
+          <polygon class="cls-29" points="456.43 618.27 454.01 583.65 437.27 583.65 434.48 549.81 418.53 549.81 411.63 476.23 416.75 366.75 496.75 366.75 497.42 381.26 497.68 366.75 578.37 366.75 578.76 476.07 578.23 549.81 558.18 549.81 558.06 583.65 537.67 583.65 537.33 618.27 456.43 618.27"/>
+          <path class="cls-29" d="M568.4,376.75l.36,99.25-.46,63.81h-20.09l-.11,33.84h-20.32l-.35,34.62h-61.67l-2.42-34.62h-16.86l-2.79-33.84h-16.05l-5.99-63.81,4.64-99.25h60.91l2.99,65.4h16.13l1.18-65.4h60.91M588.33,356.75h-181.13l-.89,19.07-4.64,99.25-.07,1.4.13,1.4,5.99,63.81,1.7,18.13h15.84l1.28,15.48,1.51,18.36h16.63l1.12,16.01,1.3,18.6h100.12l.2-19.8.15-14.82h20.45l.07-19.93.05-13.91h20.02l.14-19.86.46-63.81v-.11s0-.11,0-.11l-.36-99.25-.07-19.93h0Z"/>
+        </g>
+      </g>
+    </g>
+    <g id="Réteg_1" data-name="Réteg 1">
+      <g>
+        <g class="cls-23">
+          <polygon class="cls-3" points="127.42 476 146.32 539.81 126.22 539.81 106.4 476 127.42 476"/>
+          <polygon class="cls-40" points="190.47 476 206.6 539.81 186.51 539.81 169.45 476 190.47 476"/>
+          <polygon class="cls-4" points="164.84 510.65 182.29 573.65 141.64 573.65 122.3 510.65 164.84 510.65"/>
+          <polygon class="cls-17" points="116.31 608.27 54.64 608.27 51.05 598.85 30.99 546.14 95.55 546.14 113.16 598.85 116.31 608.27"/>
+          <polygon class="cls-16" points="263.88 376.75 255.68 455.3 255.27 459.25 246.2 546.14 181.63 546.14 190.47 476 169.46 476 164.84 510.65 122.31 510.65 126.83 480.03 127.42 476 106.41 476 95.55 546.14 30.99 546.14 46.34 459.1 60.86 376.75 121.77 376.75 116.77 409.08 137.3 409.08 132.42 442.15 173.97 442.15 178.37 409.08 198.9 409.08 202.98 376.75 263.88 376.75"/>
+          <polygon class="cls-38" points="260.2 608.27 198.53 608.27 195.97 598.85 181.63 546.14 246.2 546.14 258.08 598.85 260.2 608.27"/>
+        </g>
+        <g class="cls-23">
+          <polygon class="cls-14" points="404.25 409.08 410.85 474.36 351.89 474.36 342.64 409.08 404.25 409.08"/>
+          <polygon class="cls-16" points="338.85 459.31 334.97 510.65 398.77 510.65 396.85 546.14 267.72 546.14 272.57 496.19 272.57 496.18 276.16 459.27 284.18 376.75 406 376.75 404.25 409.08 342.65 409.08 338.85 459.31"/>
+          <polygon class="cls-22" points="404.09 608.27 280.75 608.27 278.77 598.85 267.72 546.14 396.85 546.14 402.99 598.85 404.09 608.27"/>
+        </g>
+        <g class="cls-23">
+          <polygon class="cls-41" points="1061.36 409.08 1039.78 474.36 961.16 474.36 979.22 409.08 1061.36 409.08"/>
+          <polygon class="cls-1" points="1052.14 476 1030.48 539.81 970.2 539.81 989.09 476 1052.14 476"/>
+          <polygon class="cls-16" points="1085.54 546.14 934.88 546.14 923.99 459.73 913.54 376.75 1055.66 376.75 1061.37 409.08 979.22 409.08 984.1 442.15 1046.42 442.15 1049.41 459.82 1052.15 476 989.1 476 994.21 510.65 1079.28 510.65 1085.54 546.14"/>
+          <polygon class="cls-39" points="1085.54 546.14 1065.47 598.85 1061.88 608.27 917.98 608.27 920.54 598.85 934.88 546.14 1085.54 546.14"/>
+        </g>
+        <g class="cls-23">
+          <polygon class="cls-24" points="794.41 409.08 784.28 474.36 744.97 474.36 753.34 409.08 794.41 409.08"/>
+          <polygon class="cls-5" points="897.08 409.08 882.54 474.36 843.24 474.36 856.01 409.08 897.08 409.08"/>
+          <polygon class="cls-16" points="861.3 459.69 870.33 546.14 805.76 546.14 798.6 459.64 794.41 409.08 753.34 409.08 751.13 376.75 893.24 376.75 897.08 409.08 856.02 409.08 861.3 459.69"/>
+          <polygon class="cls-25" points="870.33 546.14 858.44 598.85 856.32 608.27 794.66 608.27 796.34 598.85 805.76 546.14 870.33 546.14"/>
+        </g>
+        <g class="cls-23">
+          <polygon class="cls-20" points="671.2 409.08 666.35 474.36 646.69 474.36 650.66 409.08 671.2 409.08"/>
+          <path class="cls-16" d="M735.9,459.6l-5.07-82.85h-142.12l.21,19.21.69,63.53.93,86.65h150.66l-5.3-86.54ZM653.95,510.65l-1.66-51.11-1.63-50.46h20.54l2,50.47,2.02,51.1h-21.27Z"/>
+          <polygon class="cls-21" points="741.2 546.14 734.23 598.85 732.99 608.27 589.09 608.27 589.31 598.85 590.54 546.14 741.2 546.14"/>
+        </g>
+        <g class="cls-23">
+          <polygon class="cls-35" points="442.66 476 447.73 539.81 427.64 539.81 421.65 476 442.66 476"/>
+          <polygon class="cls-26" points="568.76 476 568.3 539.81 548.21 539.81 547.75 476 568.76 476"/>
+          <polygon class="cls-32" points="462.56 510.65 466.81 573.65 446.48 573.65 441.29 510.65 462.56 510.65"/>
+          <polygon class="cls-28" points="547.62 510.65 548.1 573.65 527.78 573.65 526.36 510.65 547.62 510.65"/>
+          <polygon class="cls-16" points="568.77 476 547.75 476 547.63 510.65 526.36 510.65 525.98 546.14 461.41 546.14 462.56 510.65 441.29 510.65 442.66 476 421.65 476 422.43 459.37 426.3 376.75 487.2 376.75 485.55 442.15 506.32 442.15 507.5 376.75 568.41 376.75 568.71 459.48 568.77 476"/>
+          <polygon class="cls-2" points="527.43 608.27 465.76 608.27 465.1 598.85 461.41 546.14 525.98 546.14 527.21 598.85 527.43 608.27"/>
+        </g>
+      </g>
+    </g>
+    <g id="Réteg_6" data-name="Réteg 6">
+      <g class="cls-11">
+        <polygon class="cls-6" points="198.9 409.08 178.37 409.08 173.97 442.15 132.42 442.15 137.3 409.08 116.77 409.08 121.77 376.75 60.86 376.75 46.34 459.1 255.27 459.25 255.68 455.3 263.88 376.75 202.98 376.75 198.9 409.08"/>
+        <polygon class="cls-30" points="276.16 459.27 338.85 459.31 342.65 409.08 404.25 409.08 406 376.75 284.18 376.75 276.16 459.27"/>
+        <polygon class="cls-19" points="507.5 376.75 506.32 442.15 485.55 442.15 487.2 376.75 426.3 376.75 422.43 459.37 568.71 459.48 568.41 376.75 507.5 376.75"/>
+        <polygon class="cls-36" points="588.71 376.75 588.92 395.96 589.61 459.49 652.29 459.54 650.66 409.08 671.2 409.08 673.2 459.55 735.9 459.6 730.83 376.75 588.71 376.75"/>
+        <polygon class="cls-31" points="893.24 376.75 751.13 376.75 753.34 409.08 794.41 409.08 798.6 459.64 861.3 459.69 856.02 409.08 897.08 409.08 893.24 376.75"/>
+        <polygon class="cls-42" points="984.1 442.15 979.22 409.08 1061.37 409.08 1055.66 376.75 913.54 376.75 923.99 459.73 1049.41 459.82 1046.42 442.15 984.1 442.15"/>
+      </g>
+      <polygon class="cls-16" points="113.16 598.85 116.31 608.27 54.64 608.27 51.05 598.85 113.16 598.85"/>
+      <polygon class="cls-16" points="258.08 598.85 260.2 608.27 198.53 608.27 195.97 598.85 258.08 598.85"/>
+      <polygon class="cls-16" points="402.99 598.85 404.09 608.27 280.75 608.27 278.77 598.85 402.99 598.85"/>
+      <polygon class="cls-16" points="527.21 598.85 527.43 608.27 465.76 608.27 465.1 598.85 527.21 598.85"/>
+      <polygon class="cls-16" points="589.31 598.85 734.23 598.85 732.99 608.27 589.09 608.27 589.31 598.85"/>
+      <polygon class="cls-16" points="796.34 598.85 858.44 598.85 856.32 608.27 794.66 608.27 796.34 598.85"/>
+      <polygon class="cls-16" points="1065.47 598.85 1061.88 608.27 917.98 608.27 920.54 598.85 1065.47 598.85"/>
+      <polygon class="cls-16" points="51.05 598.85 44.44 581.49 62.15 598.85 51.05 598.85"/>
+      <polygon class="cls-16" points="1065.44 598.85 1072.05 581.49 1054.33 598.85 1065.44 598.85"/>
+    </g>
+    <g id="Réteg_7" data-name="Réteg 7">
+      <g class="cls-43">
+        <polygon class="cls-27" points="132.42 442.15 123.15 450.15 180.97 450.15 173.97 442.15 132.42 442.15"/>
+        <polygon class="cls-27" points="178.37 409.08 185.38 417.08 205.95 417.08 198.9 409.08 178.37 409.08"/>
+        <polygon class="cls-27" points="137.29 409.08 116.76 409.08 107.43 417.08 128.03 417.08 137.29 409.08"/>
+        <polygon class="cls-27" points="210.03 384.75 255 384.75 263.88 376.75 202.98 376.75 210.03 384.75"/>
+        <polygon class="cls-27" points="121.77 376.75 60.86 376.75 67.57 384.75 112.43 384.75 121.77 376.75"/>
+        <polygon class="cls-27" points="326.34 518.65 390.32 518.65 398.77 510.65 334.97 510.65 326.34 518.65"/>
+        <polygon class="cls-27" points="291.43 384.75 397.55 384.75 406 376.75 284.17 376.75 291.43 384.75"/>
+        <polygon class="cls-27" points="994.21 510.65 987.3 518.65 1072.57 518.65 1079.28 510.65 994.21 510.65"/>
+        <polygon class="cls-27" points="1046.42 442.15 984.09 442.15 977.19 450.15 1039.66 450.15 1046.42 442.15"/>
+        <polygon class="cls-27" points="1055.65 376.75 913.53 376.75 922.61 384.75 1048.94 384.75 1055.65 376.75"/>
+        <polygon class="cls-27" points="759.69 384.75 886.13 384.75 893.24 376.75 751.13 376.75 759.69 384.75"/>
+        <polygon class="cls-27" points="653.95 510.65 646.2 518.65 683.54 518.65 675.21 510.65 653.95 510.65"/>
+        <polygon class="cls-27" points="596.79 384.75 723.3 384.75 730.83 376.75 588.71 376.75 596.79 384.75"/>
+        <polygon class="cls-27" points="507.5 376.75 515.36 384.75 560.43 384.75 568.4 376.75 568.4 376.75 507.5 376.75 507.5 376.75"/>
+        <polygon class="cls-27" points="485.55 442.15 477.34 450.15 514.18 450.15 506.32 442.15 485.55 442.15"/>
+        <polygon class="cls-27" points="487.2 376.75 487.2 376.75 426.29 376.75 426.29 376.75 433.93 384.75 478.99 384.75 487.2 376.75"/>
+      </g>
+    </g>
+  </g>
+</svg>
