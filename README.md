@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" src="/assets/mcvote-4x.png" alt="mcvote logo">
+  <img width="350" src="/assets/mcvote.svg" alt="mcvote logo">
 </p>
 
 <h1 align="center">Branding</h1>
