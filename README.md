@@ -13,3 +13,7 @@
   <a href="https://app.mcvote.top">Dashboard</a> ·
   <a href="https://dc.mcvote.top">Discord</a>
 </p>
+
+<p align="center">
+  <sub>Some renders are from @KAIZEN87's discord.<br>Check it out: https://discord.gg/Ne9QgdZsN</sub>
+</p>
