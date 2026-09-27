@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Réteg_1" data-name="Réteg 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 302.74 187.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #23759f;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #e6f5ff;
+      }
+
+      .cls-4 {
+        fill: url(#Névtelen_színátmenet_5);
+      }
+
+      .cls-5 {
+        fill: url(#Névtelen_színátmenet_3);
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-5, .cls-9 {
+        mix-blend-mode: overlay;
+      }
+
+      .cls-7 {
+        fill: url(#Névtelen_színátmenet_5-2);
+      }
+
+      .cls-7, .cls-8 {
+        opacity: .3;
+      }
+
+      .cls-8 {
+        fill: url(#Névtelen_színátmenet_5-3);
+      }
+
+      .cls-9 {
+        fill: url(#Névtelen_színátmenet_3-2);
+      }
+    </style>
+    <linearGradient id="Névtelen_színátmenet_5" data-name="Névtelen színátmenet 5" x1="87.01" y1="790.19" x2="302.74" y2="790.19" gradientTransform="translate(0 883.74) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6aa4ce"/>
+      <stop offset="1" stop-color="#4f89b2"/>
+    </linearGradient>
+    <linearGradient id="Névtelen_színátmenet_3" data-name="Névtelen színátmenet 3" x1="0" y1="837.82" x2="302.74" y2="837.82" gradientTransform="translate(0 883.74) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="Névtelen_színátmenet_3-2" data-name="Névtelen színátmenet 3" x1="120.85" y1="793.09" y2="793.09" xlink:href="#Névtelen_színátmenet_3"/>
+    <linearGradient id="Névtelen_színátmenet_5-2" data-name="Névtelen színátmenet 5" x1="56" y1="842.57" x2="196.78" y2="842.57" xlink:href="#Névtelen_színátmenet_5"/>
+    <linearGradient id="Névtelen_színátmenet_5-3" data-name="Névtelen színátmenet 5" x1="192.89" y1="789.94" x2="236.98" y2="789.94" xlink:href="#Névtelen_színátmenet_5"/>
+  </defs>
+  <g class="cls-6">
+    <g id="Réteg_4" data-name="Réteg 4">
+      <polygon class="cls-3" points="302.74 0 255.42 20.15 255.41 20.15 87.01 91.85 30.55 51.46 26.69 40.09 14.65 40.09 0 29.61 133.93 16.51 146.15 22.87 158.28 14.13 302.74 0"/>
+      <polygon class="cls-3" points="302.74 0 279.14 46.27 279.14 46.28 267.26 53.41 262.93 78.06 210.29 181.29 189.18 166.74 179.6 147.16 160.77 147.16 120.85 119.65 302.74 0"/>
+      <polygon class="cls-4" points="87.01 91.86 87.01 187.1 120.85 119.65 302.74 0 87.01 91.86"/>
+      <polygon class="cls-1" points="87.01 187.1 147.75 138.19 120.85 119.65 87.01 187.1"/>
+      <polygon class="cls-5" points="302.74 0 255.42 20.15 255.41 20.15 87.01 91.85 30.55 51.46 26.69 40.09 14.65 40.09 0 29.61 133.93 16.51 146.15 22.87 158.28 14.13 302.74 0"/>
+      <polygon class="cls-9" points="302.74 0 279.14 46.27 279.14 46.28 267.26 53.41 262.93 78.06 210.29 181.29 189.18 166.74 179.6 147.16 160.77 147.16 120.85 119.65 302.74 0"/>
+      <polygon class="cls-2" points="302.74 0 255.42 20.15 255.41 20.15 0 29.61 133.93 16.51 146.15 22.87 158.28 14.13 302.74 0"/>
+      <polygon class="cls-2" points="302.74 0 279.14 46.27 279.14 46.28 267.26 53.41 262.93 78.06 210.29 181.29 265.57 24.46 302.74 0"/>
+      <polygon class="cls-7" points="196.78 45.12 166.03 58.21 56 24.14 196.78 45.12"/>
+      <polygon class="cls-8" points="192.89 72.26 236.98 128.94 213.57 58.66 192.89 72.26"/>
+      <polyline class="cls-2" points="166.03 58.21 154.72 63.03 45.72 25.14 56 24.14 166.03 58.21"/>
+      <polyline class="cls-2" points="192.89 72.26 182.39 79.17 232.97 136.8 236.98 128.94 192.89 72.26"/>
+    </g>
+  </g>
+</svg>
