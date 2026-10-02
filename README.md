@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <sub>Some renders are from @KAIZEN87's discord.<br>Check it out: https://discord.gg/Ne9QgdZsN</sub>
+  <sub>Builds created by KAIZEN87<br>kaizen87.com</sub>
 </p>
